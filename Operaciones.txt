@@ -1,0 +1,9 @@
+Int suma;
+Int Resta;
+Int multiplicacion;
+
+Suma = 1+2;
+Resto = -5 + 10;
+Multiplicacion = 5*4;
+
+System.out.println("la suma total es"+suma);
